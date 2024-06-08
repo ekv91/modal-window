@@ -80,13 +80,13 @@ h4 {
     height: 2px;
     background-color: black;
     margin-right: 10px;
-    position: relative; /* Add position relative for absolute positioning */
+    position: relative;
 }
 
 .line1 {
-    transform: rotate(45deg) translate(9px, 0px); /* Adjust translation values */
+    transform: rotate(45deg) translate(9px, 0px);
 }
 
 .line2 {
-    transform: rotate(-45deg) translate(9px, 0px); /* Adjust translation values */
+    transform: rotate(-45deg) translate(9px, 0px); 
 }
